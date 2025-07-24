@@ -1,0 +1,23 @@
+2025-07-24 10:32:20,977 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-07-24 10:32:20,984 [INFO] logging in using static token
+2025-07-24 10:32:24,521 [ERROR] Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x000001EDA58D4470>, 28840.7096701)])']
+connector: <aiohttp.connector.TCPConnector object at 0x000001EDA58B4590>
+2025-07-24 10:33:17,622 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-07-24 10:33:17,626 [INFO] logging in using static token
+2025-07-24 10:33:21,196 [INFO] Shard ID None has connected to Gateway (Session ID: 96e02d4eb41438d4ee27c1f56e7000eb).
+2025-07-24 10:39:57,264 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-07-24 10:39:57,267 [INFO] Health check server started on 0.0.0.0:8000
+2025-07-24 10:39:57,267 [INFO] logging in using static token
+2025-07-24 10:39:58,438 [INFO] Shard ID None has connected to Gateway (Session ID: 44cee60a763531ced114744cb0b49279).
+2025-07-24 10:40:00,440 [INFO] 봇 로그인 완료: 죽은나비 & 산나비#0566
+2025-07-24 10:40:16,178 [WARNING] ⚠️ 닉네임 변경 권한이 없습니다.
+2025-07-24 10:40:21,940 [INFO] 출생년도: 07, 계산된 나이: 18
+2025-07-24 10:40:22,268 [INFO] 현님에게 역할 '미자' 부여
+2025-07-24 10:40:22,651 [INFO] 현님에게 역할 '남자' 부여
+2025-07-24 10:42:39,615 [WARNING] ⚠️ 닉네임 변경 권한이 없습니다.
+2025-07-24 10:42:45,226 [INFO] 출생년도: 07, 계산된 나이: 18
+2025-07-24 10:47:29,219 [INFO] cy2473 닉네임을 '치영'으로 변경
+2025-07-24 10:47:29,220 [INFO] 출생년도: 08, 계산된 나이: 17
+2025-07-24 10:47:29,540 [INFO] 치영님에게 역할 '미자' 부여
+2025-07-24 10:47:29,892 [INFO] 치영님에게 역할 '여자' 부여
